@@ -25,8 +25,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "NMapsGeometry",
-      url: "https://github.com/minhaaan/NMapsGeometry/releases/download/1.0.1/NMapsGeometry.xcframework.zip",
-      checksum: "a39db59cf754cffbaed769b74e6823313581c1d639998accac5ce87991ae24c5"
+      url: "https://github.com/minhaaan/NMapsGeometry/releases/download/1.0.1/NMapsGeometry.framework.zip",
+      checksum: "a28add016fea280b409a2b0570e2082d070887b3cbb75dccaf7727459c542c50"
     )
   ]
 )
