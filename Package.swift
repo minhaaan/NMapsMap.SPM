@@ -20,8 +20,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "NMapsMap",
-      url: "https://github.com/navermaps/NMapsMap/releases/download/release%2F3.16.2/NMapsMap.framework.zip",
-      checksum: "10b15333356fa577e0e8cff513e14d920f6f095c5873e3128f4662b975741da9"
+      url: "https://github.com/navermaps/NMapsMap/releases/download/release%2F3.17.0/NMapsMap.framework.zip",
+      checksum: "1ad233a0bd2a5ffb4a83e34279be73b721e3f2940f82bccaf86619b3d368da27"
     ),
     .binaryTarget(
       name: "NMapsGeometry",
